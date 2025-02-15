@@ -29,7 +29,7 @@ class PumpControlGUI:
         self.is_timer_running = {}
         self.start_time = {}
  
-        self.drugs = ['Abatacept', 'Abiciximab', 'Acetaminophen', 'AcetaZOLAMIDE', 'Acetylcystein']
+        self.drugs = ['Abatacept', 'Abiciximab', 'Acetaminophen', 'AcetaZOLAMIDE', 'Acetylcystein', 'TestDrug1']
  
         self.create_home_screen()
  
